@@ -113,7 +113,7 @@ Have a bug or a feature request. If your problem or idea is not addressed yet, [
 
 ## Most Rated product 
 
-| Ionic Firestore Multi Restaurant app  | ionic firebase news app |
+| Ionic Firestore Multi Restaurant app  | Ionic firebase news app |
 | ------------- | ------------- |
 | <a href="https://www.ionicfirebaseapp.com/products/ionic-firestore-multirestaurant-app" rel="Ionic Firestore Multi Restaurant app">![Ionic Firestore Multi Restaurant app](https://res.cloudinary.com/dzu7tvexv/image/upload/f_auto,q_auto/v1533022959/cua4f3jgjv6kphrilkdg.png) </a> |  <a href="https://www.ionicfirebaseapp.com/products/ionic-firebase-news-mobile-app" rel="ionic firebase news app"> ![ionic firebase news app](https://res.cloudinary.com/dzu7tvexv/image/upload/f_auto,q_auto/v1566279795/lpxcddrqaiagg0f58lny.jpg) </a>| 
 
