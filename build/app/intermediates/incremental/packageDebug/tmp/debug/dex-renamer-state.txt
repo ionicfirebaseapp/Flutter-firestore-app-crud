@@ -1,0 +1,10 @@
+#Mon Oct 14 10:32:16 IST 2019
+path.2=classes3.dex
+path.1=classes2.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=/home/deepika/AndroidStudioProjects/crud app/Flutter-firestore-app-crud/build/app/intermediates/transforms/dexMerger/debug/0
+base.1=/home/deepika/AndroidStudioProjects/crud app/Flutter-firestore-app-crud/build/app/intermediates/transforms/dexMerger/debug/0
+base.0=/home/deepika/AndroidStudioProjects/crud app/Flutter-firestore-app-crud/build/app/intermediates/transforms/dexMerger/debug/0

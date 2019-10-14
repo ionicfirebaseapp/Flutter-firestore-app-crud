@@ -1,0 +1,20 @@
+com.roughike.fluttertwitterlogin.fluttertwitterlogin
+color tw__blue_default
+color tw__blue_pressed
+color tw__light_gray
+color tw__solid_white
+dimen tw__login_btn_drawable_padding
+dimen tw__login_btn_height
+dimen tw__login_btn_left_padding
+dimen tw__login_btn_radius
+dimen tw__login_btn_right_padding
+dimen tw__login_btn_text_size
+drawable tw__ic_logo_default
+drawable tw__login_btn
+drawable tw__login_btn_default
+drawable tw__login_btn_disabled
+drawable tw__login_btn_pressed
+id tw__spinner
+id tw__web_view
+layout tw__activity_oauth
+string tw__login_btn_txt

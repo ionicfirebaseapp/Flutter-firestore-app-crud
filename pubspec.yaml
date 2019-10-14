@@ -1,0 +1,129 @@
+name: online_grocery
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  carousel_slider: ^1.3.0
+  provider: ^2.0.0
+  google_sign_in: ^4.0.6
+  cloud_firestore: ^0.12.9
+  firebase_auth: ^0.14.0
+  fluttertoast: ^3.1.0
+  toast: ^0.1.5
+  flutter_twitter_login: ^1.1.0
+  flutter_facebook_login: ^2.0.1
+  shared_preferences: ^0.5.3+4
+  http: ^0.12.0+2
+  image_picker: ^0.6.1+4
+  firebase_storage: ^3.0.6
+  async_loader: ^0.1.2
+  font_awesome_flutter: ^8.5.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  uses-material-design: true
+
+
+  assets:
+    - lib/assets/images/welcome.png
+    - lib/assets/images/product.png
+    - lib/assets/images/productdetail.png
+    - lib/assets/images/peanut.png
+    - lib/assets/images/cashback.png
+    - lib/assets/images/spices.png
+    - lib/assets/images/loginbg.png
+    - lib/assets/images/sugar.jpg
+    - lib/assets/images/peanut.jpg
+    - lib/assets/images/dal.jpg
+    - lib/assets/images/mushroom.jpg
+    - lib/assets/images/nuts.jpg
+    - lib/assets/images/almonds.jpg
+    - lib/assets/images/splash.png
+    - lib/assets/images/lg.png
+    - lib/assets/images/login.png
+    - lib/assets/images/laptop.jpg
+    - lib/assets/images/laptop1.jpg
+
+    - lib/assets/icons/account.png
+    - lib/assets/icons/bag.png
+    - lib/assets/icons/more.png
+    - lib/assets/icons/heart.png
+    - lib/assets/icons/plus.png
+    - lib/assets/icons/minus.png
+    - lib/assets/icons/fav.png
+    - lib/assets/icons/menu.png
+    - lib/assets/icons/filter.png
+    - lib/assets/icons/bell.png
+    - lib/assets/icons/search.png
+    - lib/assets/icons/shoppingbag.png
+    - lib/assets/icons/location.png
+    - lib/assets/icons/mob.png
+    - lib/assets/icons/paytm.png
+    - lib/assets/icons/flat.png
+    - lib/assets/icons/cart.png
+    - lib/assets/icons/cod.png
+    - lib/assets/icons/card.png
+    - lib/assets/icons/edit.png
+    - lib/assets/icons/phone.png
+    - lib/assets/icons/password.png
+    - lib/assets/icons/white-edit.png
+    - lib/assets/icons/veg.png
+    - lib/assets/icons/fb.png
+    - lib/assets/icons/twitter.png
+    - lib/assets/icons/google.png
+    - lib/assets/icons/facebook.png
+    - lib/assets/icons/google-plus.png
+    - lib/assets/icons/logo.jpg
+    - lib/assets/icons/logo.png
+    - lib/assets/icons/spinner.gif
+
+
+
+    - lib/assets/icons/heart.svg
+    - lib/assets/icons/bag.svg
+    - lib/assets/icons/more.svg
+    - lib/assets/icons/account.svg
+    - lib/assets/icons/menu.svg
+
+  fonts:
+    - family: PoppinsBold
+      fonts:
+      - asset: lib/assets/fonts/poppinsBold.ttf
+        weight: 400
+
+    - family: PoppinsRegular
+      fonts:
+      - asset: lib/assets/fonts/poppinsRegular.ttf
+        weight: 400
+
+    - family: PoppinsMedium
+      fonts:
+      - asset: lib/assets/fonts/poppinsMedium.ttf
+        weight: 400
+
+    - family: PoppinsSemiBold
+      fonts:
+      - asset: lib/assets/fonts/poppinsSemiBold.ttf
+        weight: 400
+
+
+    - family: PoppinsLight
+      fonts:
+      - asset: lib/assets/fonts/poppinsLight.ttf
+        weight: 400
+
+    - family: MontserratRegular
+      fonts:
+      - asset: lib/assets/fonts/montserratRegular.otf
+        weight: 400
